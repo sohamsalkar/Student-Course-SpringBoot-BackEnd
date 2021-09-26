@@ -51,7 +51,7 @@ public class StudentRestController {
 	@PutMapping("/update")
 	public ResponseEntity<String> updateStudent(@RequestBody Student student){
 		service.updateStudent(student);
-		String body = "Student updated";
+		String body = "Student updated !";
 		return ResponseEntity.ok(body);
 	}
 	
