@@ -1,27 +1,6 @@
 # Student-Course-SpringBoot-BackEnd
  backend application for Student project
- 
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-4 of 9,281
-(no subject)
-Inbox
-
-Riteshkumar Singh
-Attachments
-6:46 PM (1 hour ago)
-to Salkarsoham2
-
-
-Attachments area
-spring boot layers
+ spring boot layers
 1.integration layer : linked with service.ts
 2.data access layer
 3.service layer
@@ -87,5 +66,3 @@ angular
 ng g class classname
 ng g s name
 ng g c comp name
-sb.txt
-Displaying sb.txt.
