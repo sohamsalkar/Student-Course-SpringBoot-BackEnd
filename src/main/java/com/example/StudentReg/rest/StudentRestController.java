@@ -18,7 +18,7 @@ import com.example.StudentReg.model.Student;
 import com.example.StudentReg.service.IStudentInterface;
 
 @RestController
-@RequestMapping("/student")
+@RequestMapping("/")
 @CrossOrigin("https://student-register-angular.herokuapp.com/")
 public class StudentRestController {
 	
